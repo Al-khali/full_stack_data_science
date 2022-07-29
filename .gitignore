@@ -2,3 +2,4 @@
 __pycache__
 cross_validation_results.txt
 models/
+csv_file/
