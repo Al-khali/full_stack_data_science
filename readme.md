@@ -8,3 +8,5 @@ sentiment analysis
 
 
 currently in development 
+
+je tente des truck j'apprend je me trompe je recommance jusqu'a ce que sa marche 
