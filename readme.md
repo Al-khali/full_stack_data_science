@@ -9,4 +9,4 @@ sentiment analysis
 
 currently in development 
 
-je tente des truck j'apprend je me trompe je recommance jusqu'a ce que sa marche 
+Je tente des trucks, j'apprends, je me trompe, je recommence jusqu'à ce que ça marche
